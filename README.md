@@ -1,3 +1,3 @@
 ## git and github tutorials
 
-some descriptions.
+some descriptions!
